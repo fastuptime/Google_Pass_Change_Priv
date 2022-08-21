@@ -1,7 +1,7 @@
 # Google_Pass_Change_Priv
 Google Şifre Değiştirme Botu
 
-PROGRAMI SATIN ALMANIZ GEREKMEKTEDİR BURADA DOSYALARI YOKTUR!
+PROGRAMI SATIN ALMANIZ GEREKMEKTEDİR BURADA DOSYALARI YOKTUR! Bir Süreliğine Ücretsiz!
 -------------------------------------------------------------
 SATIN ALMAK İÇİN İLETİŞİME GEÇEBİLİRSİNİZ!
 ------------------------------------------
